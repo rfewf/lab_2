@@ -56,7 +56,7 @@
 - Для начала нужно определить как меняется выбранная мной игровая переменная:
 Игровая валюта меняется в зависимсоти от убийств, это значит, что изменение этой переменной зависит от убийств монстров и его навыков. Я взял ситуцию, начальную, когда за каждое убйиство ты получаешь одну единицу игровой палюты.
 -При помощи средств google-sheets я визуализировал данные в гугл таблице:
-![image](![image](https://github.com/user-attachments/assets/6e92845c-2422-4b9f-8dbf-6b24bfde1e8f))
+![image](https://github.com/user-attachments/assets/6e92845c-2422-4b9f-8dbf-6b24bfde1e8f)
 Ссылка на таблицу: https://docs.google.com/spreadsheets/d/17c4pK7DmtMQ2w6cYD1antnonJNe-8mHy6X5Lq2FVcac/edit?gid=0#gid=0
 ```Python
 import gspread
@@ -180,7 +180,7 @@ public class NewBehaviourScript : MonoBehaviour
 }
 ```
 - Как видно на изображении ниже, скрипт работает без проблем
-![image](![image](https://github.com/user-attachments/assets/dac14018-e79c-4f2d-85db-deee40536259))
+![image](https://github.com/user-attachments/assets/dac14018-e79c-4f2d-85db-deee40536259)
 
 ## Выводы
 
